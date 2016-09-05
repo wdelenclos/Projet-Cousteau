@@ -1,3 +1,5 @@
+// CREDITS:  WDELENCLOS.FR --- \\°
+
 // Bibliothèque de fonctions ----------------------------
 
 function updateSource( a, nb) {
